@@ -6,7 +6,7 @@
 [  ✍ SoundLessBellBand](https://github.com/KakeruKitahara/SoundLessBellBand)  
 プロトタイピング環境CHIRIMENを用いて，ペンに装着するリストバンド型IoT．生徒が演習中に問題に行き詰まったことを検知して管理する．
 
-[  🐵 SoundLessBellBand](https://rikohaku.com/)  
+[  🐵 理工白門祭特設サイト](https://rikohaku.com/)  
 理工白門祭の特設サイト．中央大学理工キャンパスの学園祭のWebサイトとなります．
 
 ## Status
