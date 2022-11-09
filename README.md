@@ -6,6 +6,9 @@
 [  ✍ SoundLessBellBand](https://github.com/KakeruKitahara/SoundLessBellBand)  
 プロトタイピング環境CHIRIMENを用いて，ペンに装着するリストバンド型IoT．生徒が演習中に問題に行き詰まったことを検知して管理します．
 
+[  👄 Prolis](https://github.com/KakeruKitahara/Prolis)
+音声をタグづけしてリスニングで分からないところ簡単にを繰り返し聴き直すことができます．また音声から発音している口をシミュレートし，発音方法を勉強できます．
+
 [  🐵 理工白門祭特設サイト](https://rikohaku.com/)  
 理工白門祭の特設サイト．中央大学理工キャンパスの学園祭のWebサイトとなります．
 
