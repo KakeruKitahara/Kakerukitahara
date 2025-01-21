@@ -6,7 +6,7 @@
 [👄 Prolis](https://github.com/KakeruKitahara/Prolis)  
 音声をタグづけしてリスニングで分からないところ簡単にを繰り返し聴き直すことができます．また音声から発音している口をシミュレートし，発音方法を勉強できます．
 
-[🎓 研究環境（終了）](https://github.com/KakeruKitahara/HighDensityFaceMorphing)
+[🎓 研究環境（終了）](https://github.com/KakeruKitahara/HighDensityFaceMorphing)  
 研究に用いていたSemanticStyleGANのモーフィング生成．「GANによる潜在空間を利用した表情モーフィングの生成と心理物理表情空間における意味次元の測定」
 
 [🐳 自作の開発環境](https://hub.docker.com/u/kakerukitahara)  
