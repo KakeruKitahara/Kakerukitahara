@@ -1,19 +1,15 @@
 ## Project
 
-[ 🌱 Manaba-Plus](https://chrome.google.com/webstore/detail/manaba-plus/aeidkdokanbhoefbgaadaicdmggdeegf?hl=ja)  
+[🌱 Manaba-Plus](https://chrome.google.com/webstore/detail/manaba-plus/aeidkdokanbhoefbgaadaicdmggdeegf?hl=ja)  
 中央大学Manabaで使えるChrome拡張機能．「課題一覧」「レジュメ自動ダウンロード」「ドロップ提出」などの機能を追加します．
 
-[  ✍ SoundLessBellBand](https://github.com/KakeruKitahara/SoundLessBellBand)  
-プロトタイピング環境CHIRIMENを用いて，ペンに装着するリストバンド型IoT．生徒が演習中に問題に行き詰まったことを検知して管理します．
-
-[  👄 Prolis](https://github.com/KakeruKitahara/Prolis)  
+[👄 Prolis](https://github.com/KakeruKitahara/Prolis)  
 音声をタグづけしてリスニングで分からないところ簡単にを繰り返し聴き直すことができます．また音声から発音している口をシミュレートし，発音方法を勉強できます．
 
-[  🐵 理工白門祭特設サイト](https://rikohaku.com/)  
-理工白門祭の特設サイト．中央大学理工キャンパスの学園祭のWebサイトとなります．
+[🎓 研究環境（終了）](https://github.com/KakeruKitahara/HighDensityFaceMorphing))
+研究に用いていたSemanticStyleGANのモーフィング生成．「GANによる潜在空間を利用した表情モーフィングの生成と心理物理表情空間における意味次元の測定」
 
-
-[  🐳 自作の開発環境](https://hub.docker.com/u/kakerukitahara)  
+[🐳 自作の開発環境](https://hub.docker.com/u/kakerukitahara)  
 DockerHubで開発環境を公開してます．自作の競プロ環境やtex環境のdockerイメージなどあります．
 
 ## Status
